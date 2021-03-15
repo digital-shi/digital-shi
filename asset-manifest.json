@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.13b1246b.chunk.css",
-    "main.js": "/static/js/main.15c3d686.chunk.js",
-    "main.js.map": "/static/js/main.15c3d686.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.db62e76a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.db62e76a.js.map",
-    "static/css/2.44309f2b.chunk.css": "/static/css/2.44309f2b.chunk.css",
-    "static/js/2.3efa977f.chunk.js": "/static/js/2.3efa977f.chunk.js",
-    "static/js/2.3efa977f.chunk.js.map": "/static/js/2.3efa977f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aa19b7d8625bbc6709b02b091a99f249.js": "/precache-manifest.aa19b7d8625bbc6709b02b091a99f249.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.44309f2b.chunk.css.map": "/static/css/2.44309f2b.chunk.css.map",
-    "static/css/main.13b1246b.chunk.css.map": "/static/css/main.13b1246b.chunk.css.map",
-    "static/js/2.3efa977f.chunk.js.LICENSE.txt": "/static/js/2.3efa977f.chunk.js.LICENSE.txt"
+    "main.css": "/digital-shi/static/css/main.13b1246b.chunk.css",
+    "main.js": "/digital-shi/static/js/main.b191138c.chunk.js",
+    "main.js.map": "/digital-shi/static/js/main.b191138c.chunk.js.map",
+    "runtime-main.js": "/digital-shi/static/js/runtime-main.510cdcaa.js",
+    "runtime-main.js.map": "/digital-shi/static/js/runtime-main.510cdcaa.js.map",
+    "static/css/2.44309f2b.chunk.css": "/digital-shi/static/css/2.44309f2b.chunk.css",
+    "static/js/2.f8421266.chunk.js": "/digital-shi/static/js/2.f8421266.chunk.js",
+    "static/js/2.f8421266.chunk.js.map": "/digital-shi/static/js/2.f8421266.chunk.js.map",
+    "index.html": "/digital-shi/index.html",
+    "precache-manifest.79a221c09c6b429f80c71d97d87410ef.js": "/digital-shi/precache-manifest.79a221c09c6b429f80c71d97d87410ef.js",
+    "service-worker.js": "/digital-shi/service-worker.js",
+    "static/css/2.44309f2b.chunk.css.map": "/digital-shi/static/css/2.44309f2b.chunk.css.map",
+    "static/css/main.13b1246b.chunk.css.map": "/digital-shi/static/css/main.13b1246b.chunk.css.map",
+    "static/js/2.f8421266.chunk.js.LICENSE.txt": "/digital-shi/static/js/2.f8421266.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db62e76a.js",
+    "static/js/runtime-main.510cdcaa.js",
     "static/css/2.44309f2b.chunk.css",
-    "static/js/2.3efa977f.chunk.js",
+    "static/js/2.f8421266.chunk.js",
     "static/css/main.13b1246b.chunk.css",
-    "static/js/main.15c3d686.chunk.js"
+    "static/js/main.b191138c.chunk.js"
   ]
 }
