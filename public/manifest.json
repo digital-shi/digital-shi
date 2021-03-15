@@ -1,0 +1,15 @@
+{
+  "short_name": "SLP Platform",
+  "name": "SLP Platform",
+  "icons": [
+    {
+      "src": "ucsf.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

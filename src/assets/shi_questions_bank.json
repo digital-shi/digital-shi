@@ -1,0 +1,212 @@
+[
+    {
+      "questionId": "shi1",
+      "questionTitle": "My speech makes it difﬁcult for people to understand me",
+      "tags": ["speech"],
+      "questionType": "select",
+      "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi2",
+        "questionTitle": "I run out of air when I speak",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi3",
+        "questionTitle": "The intelligibility of my speech varies throughout the day",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi4",
+        "questionTitle": "My speech makes me feel incompetent",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi5",
+        "questionTitle": "People ask me why I'm hard to understand",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi6",
+        "questionTitle": "I feel annoyed when people ask me to repeat",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi7",
+        "questionTitle": "I avoid using the phone",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi8",
+        "questionTitle": "I'm tense when talking to others because of my speech",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi9",
+        "questionTitle": "My articulation is unclear",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi10",
+        "questionTitle": "People have difﬁculty understanding me in a noisy room",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi11",
+        "questionTitle": "I tend to avoid groups of people because of my speech",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi12",
+        "questionTitle": "People seem irritated with my speech",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi13",
+        "questionTitle": "People ask me to repeat myself when speaking face-to-face",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi14",
+        "questionTitle": "I speak with friends and neighbors or relatives less often because of my speech",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi15",
+        "questionTitle": "I feel as though I have to strain to speak",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi16",
+        "questionTitle": "I ﬁnd other people don't understand my speaking problem",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi17",
+        "questionTitle": "My speaking difﬁculties restrict my personal and social life",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi18",
+        "questionTitle": "The intelligibility is unpredictable",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi19",
+        "questionTitle": "I feel left out of conversations because of my speech",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi20",
+        "questionTitle": "I use a great deal of effort to speak",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi21",
+        "questionTitle": "My speech is worse in the evening",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi22",
+        "questionTitle": "My speech problem causes me to lose income",
+        "tags": [],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi23",
+        "questionTitle": "I try to change my speech to sound different",
+        "tags": [],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi24",
+        "questionTitle": "My speech problem upsets me",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi25",
+        "questionTitle": "I am less outgoing because of my speech problem",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi26",
+        "questionTitle": "My family has difﬁculty understanding me when I call them throughout the house",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi27",
+        "questionTitle": "My speech makes me feel handicapped",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi28",
+        "questionTitle": "I have difﬁculties to continuing a conversation because of my speech",
+        "tags": ["speech"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi29",
+        "questionTitle": "I feel embarrassed when people ask me to repeat",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    },
+    {
+        "questionId": "shi30",
+        "questionTitle": "I'm ashamed of my speech problem",
+        "tags": ["psychosocial"],
+        "questionType": "select",
+        "answers": { "a0" : "Never", "a1" : "Almost Never", "a2": "Sometimes", "a3": "Almost Always", "a4": "Always" }
+    }
+]

@@ -1,0 +1,25 @@
+.questionnaireContainer {
+    display: flex;
+    flex-direction: column;
+
+
+    .questionnaireChoicesContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        @media (max-width: 768px) {
+            flex-direction: column;
+        }
+
+        .choiceContainer {
+            margin: 10px;
+            @media (max-width: 768px) {
+                margin: 2px;
+            }
+            width: 200px;
+        }
+    }
+
+}
