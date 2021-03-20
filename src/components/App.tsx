@@ -35,10 +35,10 @@ const App = () => {
       />
       <Router>
         <Switch>
-          <Route path="/shi-questionnaire/questionnaire">
+          <Route path="/digital-shi/questionnaire">
             <Questionaire />
           </Route>
-          <Route path="/shi-questionnaire/consent">
+          <Route path="/digital-shi/consent">
             <Consent />
           </Route>
           <Route path="/">

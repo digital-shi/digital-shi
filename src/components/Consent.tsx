@@ -10,7 +10,7 @@ const Consent = () => {
         <Paragraph>
           Do you want us to use the data for academic research purpose?
         </Paragraph>
-        <Link to="/shi-questionnaire/questionnaire">
+        <Link to="/digital-shi/questionnaire">
         <Button type="primary" size="large">
             Yes, I agree
         </Button>

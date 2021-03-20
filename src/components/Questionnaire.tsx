@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Button, Progress, Typography } from 'antd';
 import { useTranslation } from 'react-i18next';
-import { PDFDownloadLink } from '@react-pdf/renderer';
-import ResultDocument from './ResultDocument';
 import shi_questions_bank from "../assets/shi_questions_bank.json";
 import './Questionnaire.scss'
 
@@ -73,18 +71,11 @@ const Questionnaire = () => {
         <p>Total Score: {scores.total_score}</p>
         <p>Psychosocial Score: {scores.psychosocial_score}</p>
         <p>Speech Score: {scores.speech_score}</p>
-        <PDFDownloadLink 
-            document={
-              <ResultDocument
-                  totalScore={scores.total_score} 
-                  psychosocialScore={scores.psychosocial_score}
-                  speechScore={scores.speech_score}
-              />
-            } 
-            fileName="shi-result.pdf"
+        <Button
+          onClick={()=>{window.print()}}
         >
-          {({ blob, url, loading, error }) => (loading ? 'Loading ...' : 'Download Result as PDF')}
-        </PDFDownloadLink>
+            Print
+        </Button>
       </div>
     )
   }

@@ -21,7 +21,7 @@ const Home = () => {
         These are some statements that many people may have used to describe their speech and the effects of
         their speech on their lives. Please tick the response that indicates how frequently you have the same experience.
       </Paragraph>
-      <Link to="/shi-questionnaire/consent">
+      <Link to="/digital-shi/consent">
         <Button type="primary" size="large">
             Take the SHI Questionnaire
         </Button>
