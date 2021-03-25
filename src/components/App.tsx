@@ -38,9 +38,6 @@ const App = () => {
           <Route path="/digital-shi/questionnaire">
             <Questionaire />
           </Route>
-          <Route path="/digital-shi/consent">
-            <Consent />
-          </Route>
           <Route path="/">
             <Home />
           </Route>
